@@ -1,0 +1,5 @@
+<?php
+// config.php
+define('SPOTIFY_CLIENT_ID', '9d33228359b84205a24ef85c469ed936');
+define('SPOTIFY_CLIENT_SECRET', '61c436a49b2a46588ebb90519caa5e83');
+?>
