@@ -51,7 +51,7 @@ Se vuoi testarlo sul tuo computer o modificarlo:
 
 Il progetto è pubblicato e accessibile pubblicamente tramite GitHub Pages. 
 Puoi testare la demo live qui:
-👉 **[INSERISCI_QUI_IL_LINK_DI_GITHUB_PAGES]** *(Es: https://tuo-username.github.io/kurefy/)*
+👉 **[INSERISCI_QUI_IL_LINK_DI_GITHUB_PAGES]** *(Es: https://adych06.github.io/kurefy/)*
 
 ---
 
